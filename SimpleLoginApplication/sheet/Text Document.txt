@@ -1,0 +1,10 @@
+QPushButton[text="Confirm"] {
+color:black;
+font-weight:bold;
+background-color:#8B008B;
+}
+
+QPushButton[text="Exit"] {
+color:black;
+background-color:#DC143C;
+}
